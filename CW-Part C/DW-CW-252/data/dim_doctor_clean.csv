@@ -1,0 +1,21 @@
+doctor_sk,doctor_id,doctor_name,specialty
+1,D01,Dr. Anil Perera,General Medicine
+2,D02,Dr. Dilani Silva,Cardiology
+3,D03,Dr. Kasun Fernando,Dermatology
+4,D04,Dr. Nimali Jayasinghe,Paediatrics
+5,D05,Dr. Ruwan Wickramasinghe,Orthopaedics
+6,D06,Dr. Sanduni Bandara,Neurology
+7,D07,Dr. Tharindu Rajapaksha,General Medicine
+8,D08,Dr. Ishara Gunawardena,Cardiology
+9,D09,Dr. Mahesh Senanayake,Dermatology
+10,D10,Dr. Chathuri Herath,Paediatrics
+11,D11,Dr. Pradeep Perera,Orthopaedics
+12,D12,Dr. Shalini Silva,Neurology
+13,D13,Dr. Lahiru Fernando,General Medicine
+14,D14,Dr. Nadeesha Jayasinghe,Cardiology
+15,D15,Dr. Suresh Wickramasinghe,Dermatology
+16,D16,Dr. Kavindi Bandara,Paediatrics
+17,D17,Dr. Asela Rajapaksha,Orthopaedics
+18,D18,Dr. Hiruni Gunawardena,Neurology
+19,D19,Dr. Janaka Senanayake,General Medicine
+20,D20,Dr. Minoli Herath,Cardiology
